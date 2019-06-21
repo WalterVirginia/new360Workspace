@@ -1,0 +1,2 @@
+module new360Workspace {
+}
